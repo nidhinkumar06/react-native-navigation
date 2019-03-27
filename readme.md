@@ -1,5 +1,15 @@
 # React-Native Navigation:
 
+#Link:
+https://wix.github.io/react-native-navigation/#/docs/Installing
+
+##### Installation Error Links:
+https://stackoverflow.com/questions/49112190/error-program-type-already-present-android-support-design-widget-coordinatorl
+
+## React Native Navigation Blog Link:
+https://medium.com/react-native-training/react-native-navigation-v2-by-wix-getting-started-7d647e944132
+
+
 # Methods
 
 ### Screens
